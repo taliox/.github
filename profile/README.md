@@ -1,12 +1,6 @@
-## Hi there 👋
+![Open Source at taliox](https://media-exp1.licdn.com/dms/image/C4D1BAQFnle7_MK1Fwg/company-background_10000/0/1633949725296?e=1643292000&v=beta&t=1sFmhuhUY0y_6smSj-xHnXl2QJyuqP41sDO-IeUJSKA) 
 
-<!--
+## Get Involved
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Feel free to get in touch with us!
+contact@taliox.io
